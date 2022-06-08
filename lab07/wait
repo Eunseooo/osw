@@ -1,1 +1,11 @@
-
+I'm parent: 16837
+wait for child
+I'm child : 16838
+child cnt : 0
+child cnt : 1
+child cnt : 2
+child cnt : 3
+parent cnt: 0
+parent cnt: 1
+parent cnt: 2
+parent cnt: 3
